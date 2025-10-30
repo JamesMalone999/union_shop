@@ -190,14 +190,6 @@ Below are some explanations for the terminology used in the table:
 
 ***External Services** refer to third-party cloud services like Firebase or Azure that your application integrates with. This could include services like user authentication, database, or hosting the application live on web. To achieve full marks, you must demonstrate the integration of at least two separate external services. You are only awarded marks if your README documents this integration and explains how it is used in your application (e.g.., provide a live link to the website if you have hosted it).
 
-## Demonstration
-
-The demos take place during your usual timetabled practical sessions in weeks 19 or 20 (Friday 12/12/2025 or Friday 19/12/2025). More information about the demo sessions will be provided closer to the time.
-
-During the demo, you will have **up to 10 minutes** to demonstrate your application to staff. You must clone your repository and run the application live. You need to be prepared to show the features you have implemented and answer any questions about your code.
-
-⚠️ Make sure your application runs correctly (on your personal device or the university computers) from a fresh clone before attending the demo session.
-
 ## Submission
 
 You need to submit the link to your forked repository on Moodle **before the deadline**. Open the Moodle page for Programming Applications and Programming Languages (M30235) or User Experience Design and Implementation (M32605) and find the submission section titled "Item 1 - Set exercise (coursework) (CW)". See below:
@@ -211,6 +203,14 @@ Open the On time or the Late/Extenuating Circumstances submission link and click
 Make sure the repository is public. Check to see if it opens in an incognito/private window (you should not get a 404 error).
 
 ⚠️ You can edit the link before the deadline, but do not edit the repository (do not make new commits) after the deadline. I will label your submission as late if you do this.
+
+## Demonstration
+
+The demos take place during your usual timetabled practical sessions in weeks 19 or 20 (Friday 12/12/2025 or Friday 19/12/2025). More information about the demo sessions will be provided closer to the time.
+
+During the demo, you will have **up to 10 minutes** to demonstrate your application to staff. You must clone your repository and run the application live. You need to be prepared to show the features you have implemented and answer any questions about your code.
+
+⚠️ Make sure your application runs correctly (on your personal device or the university computers) from a fresh clone before attending the demo session.
 
 ## Project Structure
 
